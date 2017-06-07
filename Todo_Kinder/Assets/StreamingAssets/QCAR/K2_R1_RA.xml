@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CorazonRA" size="1.000000 0.901811" />
+    <ImageTarget name="K2_ES_R1_10" size="1.000000 1.248299" />
+    <ImageTarget name="K2_ES_R1_9" size="1.000000 0.945982" />
+    <ImageTarget name="K2_ES_R1_4" size="1.000000 1.137931" />
+    <ImageTarget name="K2_ES_R1_2" size="1.000000 1.020376" />
+    <ImageTarget name="K2_EN_R1_23" size="1.000000 0.853114" />
+    <ImageTarget name="K2_EN_R1_16" size="1.000000 1.025797" />
+    <ImageTarget name="K2_EN_R1_12" size="1.000000 0.872258" />
+    <ImageTarget name="K2_EN_R1_7" size="1.000000 1.081600" />
+    <ImageTarget name="K2_EN_R1_6" size="1.000000 1.307544" />
+    <ImageTarget name="K2_EN_R1_2" size="1.000000 1.131535" />
+  </Tracking>
+</QCARConfig>

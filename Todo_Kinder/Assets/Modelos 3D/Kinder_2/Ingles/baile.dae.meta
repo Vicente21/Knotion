@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: 74c20c1777eba4a1d8185337dda67e26
+timeCreated: 1495464263
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _ana_rig_v3__ana_rig_v3__ana_rig_v3_pTorus4Shape
+    100002: _ana_rig_v3__ana_rig_v3__ana_rig_v3_transform1
+    100004: _ana_rig_v3__ana_rig_v3__ana_rig_v3_transform2
+    100006: _ana_rig_v3__ana_rig_v3__ana_rig_v3_transform3
+    100008: _ana_rig_v3__ana_rig_v3__ana_rig_v3_transform4
+    100010: _ana_rig_v3__ana_rig_v3_pTorus1
+    100012: _ana_rig_v3__ana_rig_v3_transform1
+    100014: _ana_rig_v3__ana_rig_v3_transform2
+    100016: _ana_rig_v3__ana_rig_v3_transform3
+    100018: _ana_rig_v3_brazo_izquierdo
+    100020: _ana_rig_v3_cabello
+    100022: _ana_rig_v3_cabeza
+    100024: _ana_rig_v3_ceja_derecha
+    100026: _ana_rig_v3_ceja_izquierda
+    100028: _ana_rig_v3_Character1_Ctrl_ChestEndEffector
+    100030: _ana_rig_v3_Character1_Ctrl_ChestOriginEffector
+    100032: _ana_rig_v3_Character1_Ctrl_Head
+    100034: _ana_rig_v3_Character1_Ctrl_HeadEffector
+    100036: _ana_rig_v3_Character1_Ctrl_Hips
+    100038: _ana_rig_v3_Character1_Ctrl_HipsEffector
+    100040: _ana_rig_v3_Character1_Ctrl_LeftAnkleEffector
+    100042: _ana_rig_v3_Character1_Ctrl_LeftArm
+    100044: _ana_rig_v3_Character1_Ctrl_LeftElbowEffector
+    100046: _ana_rig_v3_Character1_Ctrl_LeftFoot
+    100048: _ana_rig_v3_Character1_Ctrl_LeftFootEffector
+    100050: _ana_rig_v3_Character1_Ctrl_LeftForeArm
+    100052: _ana_rig_v3_Character1_Ctrl_LeftHand
+    100054: _ana_rig_v3_Character1_Ctrl_LeftHandIndex1
+    100056: _ana_rig_v3_Character1_Ctrl_LeftHandIndex2
+    100058: _ana_rig_v3_Character1_Ctrl_LeftHandIndex3
+    100060: _ana_rig_v3_Character1_Ctrl_LeftHandIndex4
+    100062: _ana_rig_v3_Character1_Ctrl_LeftHandIndexEffector
+    100064: _ana_rig_v3_Character1_Ctrl_LeftHandMiddle1
+    100066: _ana_rig_v3_Character1_Ctrl_LeftHandMiddle2
+    100068: _ana_rig_v3_Character1_Ctrl_LeftHandMiddle3
+    100070: _ana_rig_v3_Character1_Ctrl_LeftHandMiddle4
+    100072: _ana_rig_v3_Character1_Ctrl_LeftHandMiddleEffector
+    100074: _ana_rig_v3_Character1_Ctrl_LeftHandPinky1
+    100076: _ana_rig_v3_Character1_Ctrl_LeftHandPinky2
+    100078: _ana_rig_v3_Character1_Ctrl_LeftHandPinky3
+    100080: _ana_rig_v3_Character1_Ctrl_LeftHandPinky4
+    100082: _ana_rig_v3_Character1_Ctrl_LeftHandPinkyEffector
+    100084: _ana_rig_v3_Character1_Ctrl_LeftHandRing1
+    100086: _ana_rig_v3_Character1_Ctrl_LeftHandRing2
+    100088: _ana_rig_v3_Character1_Ctrl_LeftHandRing3
+    100090: _ana_rig_v3_Character1_Ctrl_LeftHandRing4
+    100092: _ana_rig_v3_Character1_Ctrl_LeftHandRingEffector
+    100094: _ana_rig_v3_Character1_Ctrl_LeftHandThumb1
+    100096: _ana_rig_v3_Character1_Ctrl_LeftHandThumb2
+    100098: _ana_rig_v3_Character1_Ctrl_LeftHandThumb3
+    100100: _ana_rig_v3_Character1_Ctrl_LeftHandThumb4
+    100102: _ana_rig_v3_Character1_Ctrl_LeftHandThumbEffector
+    100104: _ana_rig_v3_Character1_Ctrl_LeftHipEffector
+    100106: _ana_rig_v3_Character1_Ctrl_LeftKneeEffector
+    100108: _ana_rig_v3_Character1_Ctrl_LeftLeg
+    100110: _ana_rig_v3_Character1_Ctrl_LeftShoulder
+    100112: _ana_rig_v3_Character1_Ctrl_LeftShoulderEffector
+    100114: _ana_rig_v3_Character1_Ctrl_LeftToeBase
+    100116: _ana_rig_v3_Character1_Ctrl_LeftUpLeg
+    100118: _ana_rig_v3_Character1_Ctrl_LeftWristEffector
+    100120: _ana_rig_v3_Character1_Ctrl_Neck
+    100122: _ana_rig_v3_Character1_Ctrl_Reference
+    100124: _ana_rig_v3_Character1_Ctrl_RightAnkleEffector
+    100126: _ana_rig_v3_Character1_Ctrl_RightArm
+    100128: _ana_rig_v3_Character1_Ctrl_RightElbowEffector
+    100130: _ana_rig_v3_Character1_Ctrl_RightFoot
+    100132: _ana_rig_v3_Character1_Ctrl_RightFootEffector
+    100134: _ana_rig_v3_Character1_Ctrl_RightForeArm
+    100136: _ana_rig_v3_Character1_Ctrl_RightHand
+    100138: _ana_rig_v3_Character1_Ctrl_RightHandIndex1
+    100140: _ana_rig_v3_Character1_Ctrl_RightHandIndex2
+    100142: _ana_rig_v3_Character1_Ctrl_RightHandIndex3
+    100144: _ana_rig_v3_Character1_Ctrl_RightHandIndex4
+    100146: _ana_rig_v3_Character1_Ctrl_RightHandIndexEffector
+    100148: _ana_rig_v3_Character1_Ctrl_RightHandMiddle1
+    100150: _ana_rig_v3_Character1_Ctrl_RightHandMiddle2
+    100152: _ana_rig_v3_Character1_Ctrl_RightHandMiddle3
+    100154: _ana_rig_v3_Character1_Ctrl_RightHandMiddle4
+    100156: _ana_rig_v3_Character1_Ctrl_RightHandMiddleEffector
+    100158: _ana_rig_v3_Character1_Ctrl_RightHandPinky1
+    100160: _ana_rig_v3_Character1_Ctrl_RightHandPinky2
+    100162: _ana_rig_v3_Character1_Ctrl_RightHandPinky3
+    100164: _ana_rig_v3_Character1_Ctrl_RightHandPinky4
+    100166: _ana_rig_v3_Character1_Ctrl_RightHandPinkyEffector
+    100168: _ana_rig_v3_Character1_Ctrl_RightHandRing1
+    100170: _ana_rig_v3_Character1_Ctrl_RightHandRing2
+    100172: _ana_rig_v3_Character1_Ctrl_RightHandRing3
+    100174: _ana_rig_v3_Character1_Ctrl_RightHandRing4
+    100176: _ana_rig_v3_Character1_Ctrl_RightHandRingEffector
+    100178: _ana_rig_v3_Character1_Ctrl_RightHandThumb1
+    100180: _ana_rig_v3_Character1_Ctrl_RightHandThumb2
+    100182: _ana_rig_v3_Character1_Ctrl_RightHandThumb3
+    100184: _ana_rig_v3_Character1_Ctrl_RightHandThumb4
+    100186: _ana_rig_v3_Character1_Ctrl_RightHandThumbEffector
+    100188: _ana_rig_v3_Character1_Ctrl_RightHipEffector
+    100190: _ana_rig_v3_Character1_Ctrl_RightKneeEffector
+    100192: _ana_rig_v3_Character1_Ctrl_RightLeg
+    100194: _ana_rig_v3_Character1_Ctrl_RightShoulder
+    100196: _ana_rig_v3_Character1_Ctrl_RightShoulderEffector
+    100198: _ana_rig_v3_Character1_Ctrl_RightToeBase
+    100200: _ana_rig_v3_Character1_Ctrl_RightUpLeg
+    100202: _ana_rig_v3_Character1_Ctrl_RightWristEffector
+    100204: _ana_rig_v3_Character1_Ctrl_Spine
+    100206: _ana_rig_v3_Character1_Ctrl_Spine1
+    100208: _ana_rig_v3_Character1_Ctrl_Spine2
+    100210: _ana_rig_v3_Character1_Head
+    100212: _ana_rig_v3_Character1_Hips
+    100214: _ana_rig_v3_Character1_LeftArm
+    100216: _ana_rig_v3_Character1_LeftFoot
+    100218: _ana_rig_v3_Character1_LeftForeArm
+    100220: _ana_rig_v3_Character1_LeftHand
+    100222: _ana_rig_v3_Character1_LeftHandIndex1
+    100224: _ana_rig_v3_Character1_LeftHandIndex2
+    100226: _ana_rig_v3_Character1_LeftHandIndex3
+    100228: _ana_rig_v3_Character1_LeftHandIndex4
+    100230: _ana_rig_v3_Character1_LeftHandMiddle1
+    100232: _ana_rig_v3_Character1_LeftHandMiddle2
+    100234: _ana_rig_v3_Character1_LeftHandMiddle3
+    100236: _ana_rig_v3_Character1_LeftHandMiddle4
+    100238: _ana_rig_v3_Character1_LeftHandPinky1
+    100240: _ana_rig_v3_Character1_LeftHandPinky2
+    100242: _ana_rig_v3_Character1_LeftHandPinky3
+    100244: _ana_rig_v3_Character1_LeftHandPinky4
+    100246: _ana_rig_v3_Character1_LeftHandRing1
+    100248: _ana_rig_v3_Character1_LeftHandRing2
+    100250: _ana_rig_v3_Character1_LeftHandRing3
+    100252: _ana_rig_v3_Character1_LeftHandRing4
+    100254: _ana_rig_v3_Character1_LeftHandThumb1
+    100256: _ana_rig_v3_Character1_LeftHandThumb2
+    100258: _ana_rig_v3_Character1_LeftHandThumb3
+    100260: _ana_rig_v3_Character1_LeftHandThumb4
+    100262: _ana_rig_v3_Character1_LeftLeg
+    100264: _ana_rig_v3_Character1_LeftShoulder
+    100266: _ana_rig_v3_Character1_LeftToeBase
+    100268: _ana_rig_v3_Character1_LeftUpLeg
+    100270: _ana_rig_v3_Character1_Neck
+    100272: _ana_rig_v3_Character1_Reference
+    100274: _ana_rig_v3_Character1_RightArm
+    100276: _ana_rig_v3_Character1_RightFoot
+    100278: _ana_rig_v3_Character1_RightForeArm
+    100280: _ana_rig_v3_Character1_RightHand
+    100282: _ana_rig_v3_Character1_RightHandIndex1
+    100284: _ana_rig_v3_Character1_RightHandIndex2
+    100286: _ana_rig_v3_Character1_RightHandIndex3
+    100288: _ana_rig_v3_Character1_RightHandIndex4
+    100290: _ana_rig_v3_Character1_RightHandMiddle1
+    100292: _ana_rig_v3_Character1_RightHandMiddle2
+    100294: _ana_rig_v3_Character1_RightHandMiddle3
+    100296: _ana_rig_v3_Character1_RightHandMiddle4
+    100298: _ana_rig_v3_Character1_RightHandPinky1
+    100300: _ana_rig_v3_Character1_RightHandPinky2
+    100302: _ana_rig_v3_Character1_RightHandPinky3
+    100304: _ana_rig_v3_Character1_RightHandPinky4
+    100306: _ana_rig_v3_Character1_RightHandRing1
+    100308: _ana_rig_v3_Character1_RightHandRing2
+    100310: _ana_rig_v3_Character1_RightHandRing3
+    100312: _ana_rig_v3_Character1_RightHandRing4
+    100314: _ana_rig_v3_Character1_RightHandThumb1
+    100316: _ana_rig_v3_Character1_RightHandThumb2
+    100318: _ana_rig_v3_Character1_RightHandThumb3
+    100320: _ana_rig_v3_Character1_RightHandThumb4
+    100322: _ana_rig_v3_Character1_RightLeg
+    100324: _ana_rig_v3_Character1_RightShoulder
+    100326: _ana_rig_v3_Character1_RightToeBase
+    100328: _ana_rig_v3_Character1_RightUpLeg
+    100330: _ana_rig_v3_Character1_Spine
+    100332: _ana_rig_v3_Character1_Spine1
+    100334: _ana_rig_v3_Character1_Spine2
+    100336: _ana_rig_v3_cuerpo
+    100338: _ana_rig_v3_lentes
+    100340: _ana_rig_v3_nariz_11
+    100342: _ana_rig_v3_ojo_derecho
+    100344: _ana_rig_v3_ojo_izquierdo
+    100346: _ana_rig_v3_pierna_derecha
+    100348: _ana_rig_v3_pierna_izquierda
+    100350: _ana_rig_v3_polySurface1
+    100352: _ana_rig_v3_polySurface2
+    100354: _ana_rig_v3_pTorus1
+    100356: _ana_rig_v3_pTorus2
+    100358: _ana_rig_v3_pTorus3
+    100360: _ana_rig_v3_pTorus4
+    100362: _ana_rig_v3_zapato_derecho
+    100364: _ana_rig_v3_zapato_izquierdo
+    100366: //RootNode
+    100368: LUISRIG_brazo_izquierdo
+    100370: LUISRIG_brazo_izquierdo2
+    100372: LUISRIG_cabello_4
+    100374: LUISRIG_cabeza
+    100376: LUISRIG_ceja_derecha
+    100378: LUISRIG_ceja_izquierda
+    100380: LUISRIG_Char_E_1
+    100382: LUISRIG_Character1_Ctrl_ChestEndEffector
+    100384: LUISRIG_Character1_Ctrl_ChestOriginEffector
+    100386: LUISRIG_Character1_Ctrl_Head
+    100388: LUISRIG_Character1_Ctrl_HeadEffector
+    100390: LUISRIG_Character1_Ctrl_Hips
+    100392: LUISRIG_Character1_Ctrl_HipsEffector
+    100394: LUISRIG_Character1_Ctrl_LeftAnkleEffector
+    100396: LUISRIG_Character1_Ctrl_LeftArm
+    100398: LUISRIG_Character1_Ctrl_LeftElbowEffector
+    100400: LUISRIG_Character1_Ctrl_LeftFoot
+    100402: LUISRIG_Character1_Ctrl_LeftFootEffector
+    100404: LUISRIG_Character1_Ctrl_LeftForeArm
+    100406: LUISRIG_Character1_Ctrl_LeftHand
+    100408: LUISRIG_Character1_Ctrl_LeftHandIndex1
+    100410: LUISRIG_Character1_Ctrl_LeftHandIndex2
+    100412: LUISRIG_Character1_Ctrl_LeftHandIndex3
+    100414: LUISRIG_Character1_Ctrl_LeftHandIndex4
+    100416: LUISRIG_Character1_Ctrl_LeftHandIndexEffector
+    100418: LUISRIG_Character1_Ctrl_LeftHandMiddle1
+    100420: LUISRIG_Character1_Ctrl_LeftHandMiddle2
+    100422: LUISRIG_Character1_Ctrl_LeftHandMiddle3
+    100424: LUISRIG_Character1_Ctrl_LeftHandMiddle4
+    100426: LUISRIG_Character1_Ctrl_LeftHandMiddleEffector
+    100428: LUISRIG_Character1_Ctrl_LeftHandPinky1
+    100430: LUISRIG_Character1_Ctrl_LeftHandPinky2
+    100432: LUISRIG_Character1_Ctrl_LeftHandPinky3
+    100434: LUISRIG_Character1_Ctrl_LeftHandPinky4
+    100436: LUISRIG_Character1_Ctrl_LeftHandPinkyEffector
+    100438: LUISRIG_Character1_Ctrl_LeftHandRing1
+    100440: LUISRIG_Character1_Ctrl_LeftHandRing2
+    100442: LUISRIG_Character1_Ctrl_LeftHandRing3
+    100444: LUISRIG_Character1_Ctrl_LeftHandRing4
+    100446: LUISRIG_Character1_Ctrl_LeftHandRingEffector
+    100448: LUISRIG_Character1_Ctrl_LeftHandThumb1
+    100450: LUISRIG_Character1_Ctrl_LeftHandThumb2
+    100452: LUISRIG_Character1_Ctrl_LeftHandThumb3
+    100454: LUISRIG_Character1_Ctrl_LeftHandThumb4
+    100456: LUISRIG_Character1_Ctrl_LeftHandThumbEffector
+    100458: LUISRIG_Character1_Ctrl_LeftHipEffector
+    100460: LUISRIG_Character1_Ctrl_LeftKneeEffector
+    100462: LUISRIG_Character1_Ctrl_LeftLeg
+    100464: LUISRIG_Character1_Ctrl_LeftShoulder
+    100466: LUISRIG_Character1_Ctrl_LeftShoulderEffector
+    100468: LUISRIG_Character1_Ctrl_LeftToeBase
+    100470: LUISRIG_Character1_Ctrl_LeftUpLeg
+    100472: LUISRIG_Character1_Ctrl_LeftWristEffector
+    100474: LUISRIG_Character1_Ctrl_Neck
+    100476: LUISRIG_Character1_Ctrl_Reference
+    100478: LUISRIG_Character1_Ctrl_RightAnkleEffector
+    100480: LUISRIG_Character1_Ctrl_RightArm
+    100482: LUISRIG_Character1_Ctrl_RightElbowEffector
+    100484: LUISRIG_Character1_Ctrl_RightFoot
+    100486: LUISRIG_Character1_Ctrl_RightFootEffector
+    100488: LUISRIG_Character1_Ctrl_RightForeArm
+    100490: LUISRIG_Character1_Ctrl_RightHand
+    100492: LUISRIG_Character1_Ctrl_RightHandIndex1
+    100494: LUISRIG_Character1_Ctrl_RightHandIndex2
+    100496: LUISRIG_Character1_Ctrl_RightHandIndex3
+    100498: LUISRIG_Character1_Ctrl_RightHandIndex4
+    100500: LUISRIG_Character1_Ctrl_RightHandIndexEffector
+    100502: LUISRIG_Character1_Ctrl_RightHandMiddle1
+    100504: LUISRIG_Character1_Ctrl_RightHandMiddle2
+    100506: LUISRIG_Character1_Ctrl_RightHandMiddle3
+    100508: LUISRIG_Character1_Ctrl_RightHandMiddle4
+    100510: LUISRIG_Character1_Ctrl_RightHandMiddleEffector
+    100512: LUISRIG_Character1_Ctrl_RightHandPinky1
+    100514: LUISRIG_Character1_Ctrl_RightHandPinky2
+    100516: LUISRIG_Character1_Ctrl_RightHandPinky3
+    100518: LUISRIG_Character1_Ctrl_RightHandPinky4
+    100520: LUISRIG_Character1_Ctrl_RightHandPinkyEffector
+    100522: LUISRIG_Character1_Ctrl_RightHandRing1
+    100524: LUISRIG_Character1_Ctrl_RightHandRing2
+    100526: LUISRIG_Character1_Ctrl_RightHandRing3
+    100528: LUISRIG_Character1_Ctrl_RightHandRing4
+    100530: LUISRIG_Character1_Ctrl_RightHandRingEffector
+    100532: LUISRIG_Character1_Ctrl_RightHandThumb1
+    100534: LUISRIG_Character1_Ctrl_RightHandThumb2
+    100536: LUISRIG_Character1_Ctrl_RightHandThumb3
+    100538: LUISRIG_Character1_Ctrl_RightHandThumb4
+    100540: LUISRIG_Character1_Ctrl_RightHandThumbEffector
+    100542: LUISRIG_Character1_Ctrl_RightHipEffector
+    100544: LUISRIG_Character1_Ctrl_RightKneeEffector
+    100546: LUISRIG_Character1_Ctrl_RightLeg
+    100548: LUISRIG_Character1_Ctrl_RightShoulder
+    100550: LUISRIG_Character1_Ctrl_RightShoulderEffector
+    100552: LUISRIG_Character1_Ctrl_RightToeBase
+    100554: LUISRIG_Character1_Ctrl_RightUpLeg
+    100556: LUISRIG_Character1_Ctrl_RightWristEffector
+    100558: LUISRIG_Character1_Ctrl_Spine
+    100560: LUISRIG_Character1_Ctrl_Spine1
+    100562: LUISRIG_Character1_Ctrl_Spine2
+    100564: LUISRIG_Character1_Head
+    100566: LUISRIG_Character1_Hips
+    100568: LUISRIG_Character1_LeftArm
+    100570: LUISRIG_Character1_LeftFoot
+    100572: LUISRIG_Character1_LeftForeArm
+    100574: LUISRIG_Character1_LeftHand
+    100576: LUISRIG_Character1_LeftHandIndex1
+    100578: LUISRIG_Character1_LeftHandIndex2
+    100580: LUISRIG_Character1_LeftHandIndex3
+    100582: LUISRIG_Character1_LeftHandIndex4
+    100584: LUISRIG_Character1_LeftHandMiddle1
+    100586: LUISRIG_Character1_LeftHandMiddle2
+    100588: LUISRIG_Character1_LeftHandMiddle3
+    100590: LUISRIG_Character1_LeftHandMiddle4
+    100592: LUISRIG_Character1_LeftHandPinky1
+    100594: LUISRIG_Character1_LeftHandPinky2
+    100596: LUISRIG_Character1_LeftHandPinky3
+    100598: LUISRIG_Character1_LeftHandPinky4
+    100600: LUISRIG_Character1_LeftHandRing1
+    100602: LUISRIG_Character1_LeftHandRing2
+    100604: LUISRIG_Character1_LeftHandRing3
+    100606: LUISRIG_Character1_LeftHandRing4
+    100608: LUISRIG_Character1_LeftHandThumb1
+    100610: LUISRIG_Character1_LeftHandThumb2
+    100612: LUISRIG_Character1_LeftHandThumb3
+    100614: LUISRIG_Character1_LeftHandThumb4
+    100616: LUISRIG_Character1_LeftLeg
+    100618: LUISRIG_Character1_LeftShoulder
+    100620: LUISRIG_Character1_LeftToeBase
+    100622: LUISRIG_Character1_LeftUpLeg
+    100624: LUISRIG_Character1_Neck
+    100626: LUISRIG_Character1_Reference
+    100628: LUISRIG_Character1_RightArm
+    100630: LUISRIG_Character1_RightFoot
+    100632: LUISRIG_Character1_RightForeArm
+    100634: LUISRIG_Character1_RightHand
+    100636: LUISRIG_Character1_RightHandIndex1
+    100638: LUISRIG_Character1_RightHandIndex2
+    100640: LUISRIG_Character1_RightHandIndex3
+    100642: LUISRIG_Character1_RightHandIndex4
+    100644: LUISRIG_Character1_RightHandMiddle1
+    100646: LUISRIG_Character1_RightHandMiddle2
+    100648: LUISRIG_Character1_RightHandMiddle3
+    100650: LUISRIG_Character1_RightHandMiddle4
+    100652: LUISRIG_Character1_RightHandPinky1
+    100654: LUISRIG_Character1_RightHandPinky2
+    100656: LUISRIG_Character1_RightHandPinky3
+    100658: LUISRIG_Character1_RightHandPinky4
+    100660: LUISRIG_Character1_RightHandRing1
+    100662: LUISRIG_Character1_RightHandRing2
+    100664: LUISRIG_Character1_RightHandRing3
+    100666: LUISRIG_Character1_RightHandRing4
+    100668: LUISRIG_Character1_RightHandThumb1
+    100670: LUISRIG_Character1_RightHandThumb2
+    100672: LUISRIG_Character1_RightHandThumb3
+    100674: LUISRIG_Character1_RightHandThumb4
+    100676: LUISRIG_Character1_RightLeg
+    100678: LUISRIG_Character1_RightShoulder
+    100680: LUISRIG_Character1_RightToeBase
+    100682: LUISRIG_Character1_RightUpLeg
+    100684: LUISRIG_Character1_Spine
+    100686: LUISRIG_Character1_Spine1
+    100688: LUISRIG_Character1_Spine2
+    100690: LUISRIG_nariz_9
+    100692: LUISRIG_ojo_derecho
+    100694: LUISRIG_ojo_izquierdo
+    100696: LUISRIG_oreja_derecha
+    100698: LUISRIG_oreja_izquierda
+    100700: LUISRIG_pie_derecho
+    100702: LUISRIG_pie_izquierdo
+    100704: LUISRIG_polySurface1
+    100706: LUISRIG_Text_E_1
+    100708: LUISRIG_torso
+    100710: pCube1
+    100712: pCube10
+    100714: pCube11
+    100716: pCube12
+    100718: pCube13
+    100720: pCube14
+    100722: pCube15
+    100724: pCube16
+    100726: pCube17
+    100728: pCube18
+    100730: pCube19
+    100732: pCube2
+    100734: pCube21
+    100736: pCube22
+    100738: pCube23
+    100740: pCube24
+    100742: pCube25
+    100744: pCube3
+    100746: pCube4
+    100748: pCube5
+    100750: pCube6
+    100752: pCube7
+    100754: pCube8
+    100756: pCube9
+    100758: pCylinder1
+    100760: pCylinder2
+    100762: pCylinder3
+    100764: pCylinder4
+    100766: pCylinder5
+    100768: pCylinder6
+    100770: pPipe1
+    100772: pPipe2
+    100774: pPlane1
+    100776: pSphere7
+    100778: pSphere8
+    100780: transform1
+    100782: transform10
+    100784: transform11
+    100786: transform12
+    100788: transform13
+    100790: transform14
+    100792: transform15
+    100794: transform16
+    100796: transform17
+    100798: transform18
+    100800: transform19
+    100802: transform2
+    100804: transform20
+    100806: transform21
+    100808: transform22
+    100810: transform23
+    100812: transform24
+    100814: transform25
+    100816: transform26
+    100818: transform27
+    100820: transform28
+    100822: transform29
+    100824: transform3
+    100826: transform4
+    100828: transform5
+    100830: transform6
+    100832: transform7
+    100834: transform8
+    100836: transform9
+    400000: _ana_rig_v3__ana_rig_v3__ana_rig_v3_pTorus4Shape
+    400002: _ana_rig_v3__ana_rig_v3__ana_rig_v3_transform1
+    400004: _ana_rig_v3__ana_rig_v3__ana_rig_v3_transform2
+    400006: _ana_rig_v3__ana_rig_v3__ana_rig_v3_transform3
+    400008: _ana_rig_v3__ana_rig_v3__ana_rig_v3_transform4
+    400010: _ana_rig_v3__ana_rig_v3_pTorus1
+    400012: _ana_rig_v3__ana_rig_v3_transform1
+    400014: _ana_rig_v3__ana_rig_v3_transform2
+    400016: _ana_rig_v3__ana_rig_v3_transform3
+    400018: _ana_rig_v3_brazo_izquierdo
+    400020: _ana_rig_v3_cabello
+    400022: _ana_rig_v3_cabeza
+    400024: _ana_rig_v3_ceja_derecha
+    400026: _ana_rig_v3_ceja_izquierda
+    400028: _ana_rig_v3_Character1_Ctrl_ChestEndEffector
+    400030: _ana_rig_v3_Character1_Ctrl_ChestOriginEffector
+    400032: _ana_rig_v3_Character1_Ctrl_Head
+    400034: _ana_rig_v3_Character1_Ctrl_HeadEffector
+    400036: _ana_rig_v3_Character1_Ctrl_Hips
+    400038: _ana_rig_v3_Character1_Ctrl_HipsEffector
+    400040: _ana_rig_v3_Character1_Ctrl_LeftAnkleEffector
+    400042: _ana_rig_v3_Character1_Ctrl_LeftArm
+    400044: _ana_rig_v3_Character1_Ctrl_LeftElbowEffector
+    400046: _ana_rig_v3_Character1_Ctrl_LeftFoot
+    400048: _ana_rig_v3_Character1_Ctrl_LeftFootEffector
+    400050: _ana_rig_v3_Character1_Ctrl_LeftForeArm
+    400052: _ana_rig_v3_Character1_Ctrl_LeftHand
+    400054: _ana_rig_v3_Character1_Ctrl_LeftHandIndex1
+    400056: _ana_rig_v3_Character1_Ctrl_LeftHandIndex2
+    400058: _ana_rig_v3_Character1_Ctrl_LeftHandIndex3
+    400060: _ana_rig_v3_Character1_Ctrl_LeftHandIndex4
+    400062: _ana_rig_v3_Character1_Ctrl_LeftHandIndexEffector
+    400064: _ana_rig_v3_Character1_Ctrl_LeftHandMiddle1
+    400066: _ana_rig_v3_Character1_Ctrl_LeftHandMiddle2
+    400068: _ana_rig_v3_Character1_Ctrl_LeftHandMiddle3
+    400070: _ana_rig_v3_Character1_Ctrl_LeftHandMiddle4
+    400072: _ana_rig_v3_Character1_Ctrl_LeftHandMiddleEffector
+    400074: _ana_rig_v3_Character1_Ctrl_LeftHandPinky1
+    400076: _ana_rig_v3_Character1_Ctrl_LeftHandPinky2
+    400078: _ana_rig_v3_Character1_Ctrl_LeftHandPinky3
+    400080: _ana_rig_v3_Character1_Ctrl_LeftHandPinky4
+    400082: _ana_rig_v3_Character1_Ctrl_LeftHandPinkyEffector
+    400084: _ana_rig_v3_Character1_Ctrl_LeftHandRing1
+    400086: _ana_rig_v3_Character1_Ctrl_LeftHandRing2
+    400088: _ana_rig_v3_Character1_Ctrl_LeftHandRing3
+    400090: _ana_rig_v3_Character1_Ctrl_LeftHandRing4
+    400092: _ana_rig_v3_Character1_Ctrl_LeftHandRingEffector
+    400094: _ana_rig_v3_Character1_Ctrl_LeftHandThumb1
+    400096: _ana_rig_v3_Character1_Ctrl_LeftHandThumb2
+    400098: _ana_rig_v3_Character1_Ctrl_LeftHandThumb3
+    400100: _ana_rig_v3_Character1_Ctrl_LeftHandThumb4
+    400102: _ana_rig_v3_Character1_Ctrl_LeftHandThumbEffector
+    400104: _ana_rig_v3_Character1_Ctrl_LeftHipEffector
+    400106: _ana_rig_v3_Character1_Ctrl_LeftKneeEffector
+    400108: _ana_rig_v3_Character1_Ctrl_LeftLeg
+    400110: _ana_rig_v3_Character1_Ctrl_LeftShoulder
+    400112: _ana_rig_v3_Character1_Ctrl_LeftShoulderEffector
+    400114: _ana_rig_v3_Character1_Ctrl_LeftToeBase
+    400116: _ana_rig_v3_Character1_Ctrl_LeftUpLeg
+    400118: _ana_rig_v3_Character1_Ctrl_LeftWristEffector
+    400120: _ana_rig_v3_Character1_Ctrl_Neck
+    400122: _ana_rig_v3_Character1_Ctrl_Reference
+    400124: _ana_rig_v3_Character1_Ctrl_RightAnkleEffector
+    400126: _ana_rig_v3_Character1_Ctrl_RightArm
+    400128: _ana_rig_v3_Character1_Ctrl_RightElbowEffector
+    400130: _ana_rig_v3_Character1_Ctrl_RightFoot
+    400132: _ana_rig_v3_Character1_Ctrl_RightFootEffector
+    400134: _ana_rig_v3_Character1_Ctrl_RightForeArm
+    400136: _ana_rig_v3_Character1_Ctrl_RightHand
+    400138: _ana_rig_v3_Character1_Ctrl_RightHandIndex1
+    400140: _ana_rig_v3_Character1_Ctrl_RightHandIndex2
+    400142: _ana_rig_v3_Character1_Ctrl_RightHandIndex3
+    400144: _ana_rig_v3_Character1_Ctrl_RightHandIndex4
+    400146: _ana_rig_v3_Character1_Ctrl_RightHandIndexEffector
+    400148: _ana_rig_v3_Character1_Ctrl_RightHandMiddle1
+    400150: _ana_rig_v3_Character1_Ctrl_RightHandMiddle2
+    400152: _ana_rig_v3_Character1_Ctrl_RightHandMiddle3
+    400154: _ana_rig_v3_Character1_Ctrl_RightHandMiddle4
+    400156: _ana_rig_v3_Character1_Ctrl_RightHandMiddleEffector
+    400158: _ana_rig_v3_Character1_Ctrl_RightHandPinky1
+    400160: _ana_rig_v3_Character1_Ctrl_RightHandPinky2
+    400162: _ana_rig_v3_Character1_Ctrl_RightHandPinky3
+    400164: _ana_rig_v3_Character1_Ctrl_RightHandPinky4
+    400166: _ana_rig_v3_Character1_Ctrl_RightHandPinkyEffector
+    400168: _ana_rig_v3_Character1_Ctrl_RightHandRing1
+    400170: _ana_rig_v3_Character1_Ctrl_RightHandRing2
+    400172: _ana_rig_v3_Character1_Ctrl_RightHandRing3
+    400174: _ana_rig_v3_Character1_Ctrl_RightHandRing4
+    400176: _ana_rig_v3_Character1_Ctrl_RightHandRingEffector
+    400178: _ana_rig_v3_Character1_Ctrl_RightHandThumb1
+    400180: _ana_rig_v3_Character1_Ctrl_RightHandThumb2
+    400182: _ana_rig_v3_Character1_Ctrl_RightHandThumb3
+    400184: _ana_rig_v3_Character1_Ctrl_RightHandThumb4
+    400186: _ana_rig_v3_Character1_Ctrl_RightHandThumbEffector
+    400188: _ana_rig_v3_Character1_Ctrl_RightHipEffector
+    400190: _ana_rig_v3_Character1_Ctrl_RightKneeEffector
+    400192: _ana_rig_v3_Character1_Ctrl_RightLeg
+    400194: _ana_rig_v3_Character1_Ctrl_RightShoulder
+    400196: _ana_rig_v3_Character1_Ctrl_RightShoulderEffector
+    400198: _ana_rig_v3_Character1_Ctrl_RightToeBase
+    400200: _ana_rig_v3_Character1_Ctrl_RightUpLeg
+    400202: _ana_rig_v3_Character1_Ctrl_RightWristEffector
+    400204: _ana_rig_v3_Character1_Ctrl_Spine
+    400206: _ana_rig_v3_Character1_Ctrl_Spine1
+    400208: _ana_rig_v3_Character1_Ctrl_Spine2
+    400210: _ana_rig_v3_Character1_Head
+    400212: _ana_rig_v3_Character1_Hips
+    400214: _ana_rig_v3_Character1_LeftArm
+    400216: _ana_rig_v3_Character1_LeftFoot
+    400218: _ana_rig_v3_Character1_LeftForeArm
+    400220: _ana_rig_v3_Character1_LeftHand
+    400222: _ana_rig_v3_Character1_LeftHandIndex1
+    400224: _ana_rig_v3_Character1_LeftHandIndex2
+    400226: _ana_rig_v3_Character1_LeftHandIndex3
+    400228: _ana_rig_v3_Character1_LeftHandIndex4
+    400230: _ana_rig_v3_Character1_LeftHandMiddle1
+    400232: _ana_rig_v3_Character1_LeftHandMiddle2
+    400234: _ana_rig_v3_Character1_LeftHandMiddle3
+    400236: _ana_rig_v3_Character1_LeftHandMiddle4
+    400238: _ana_rig_v3_Character1_LeftHandPinky1
+    400240: _ana_rig_v3_Character1_LeftHandPinky2
+    400242: _ana_rig_v3_Character1_LeftHandPinky3
+    400244: _ana_rig_v3_Character1_LeftHandPinky4
+    400246: _ana_rig_v3_Character1_LeftHandRing1
+    400248: _ana_rig_v3_Character1_LeftHandRing2
+    400250: _ana_rig_v3_Character1_LeftHandRing3
+    400252: _ana_rig_v3_Character1_LeftHandRing4
+    400254: _ana_rig_v3_Character1_LeftHandThumb1
+    400256: _ana_rig_v3_Character1_LeftHandThumb2
+    400258: _ana_rig_v3_Character1_LeftHandThumb3
+    400260: _ana_rig_v3_Character1_LeftHandThumb4
+    400262: _ana_rig_v3_Character1_LeftLeg
+    400264: _ana_rig_v3_Character1_LeftShoulder
+    400266: _ana_rig_v3_Character1_LeftToeBase
+    400268: _ana_rig_v3_Character1_LeftUpLeg
+    400270: _ana_rig_v3_Character1_Neck
+    400272: _ana_rig_v3_Character1_Reference
+    400274: _ana_rig_v3_Character1_RightArm
+    400276: _ana_rig_v3_Character1_RightFoot
+    400278: _ana_rig_v3_Character1_RightForeArm
+    400280: _ana_rig_v3_Character1_RightHand
+    400282: _ana_rig_v3_Character1_RightHandIndex1
+    400284: _ana_rig_v3_Character1_RightHandIndex2
+    400286: _ana_rig_v3_Character1_RightHandIndex3
+    400288: _ana_rig_v3_Character1_RightHandIndex4
+    400290: _ana_rig_v3_Character1_RightHandMiddle1
+    400292: _ana_rig_v3_Character1_RightHandMiddle2
+    400294: _ana_rig_v3_Character1_RightHandMiddle3
+    400296: _ana_rig_v3_Character1_RightHandMiddle4
+    400298: _ana_rig_v3_Character1_RightHandPinky1
+    400300: _ana_rig_v3_Character1_RightHandPinky2
+    400302: _ana_rig_v3_Character1_RightHandPinky3
+    400304: _ana_rig_v3_Character1_RightHandPinky4
+    400306: _ana_rig_v3_Character1_RightHandRing1
+    400308: _ana_rig_v3_Character1_RightHandRing2
+    400310: _ana_rig_v3_Character1_RightHandRing3
+    400312: _ana_rig_v3_Character1_RightHandRing4
+    400314: _ana_rig_v3_Character1_RightHandThumb1
+    400316: _ana_rig_v3_Character1_RightHandThumb2
+    400318: _ana_rig_v3_Character1_RightHandThumb3
+    400320: _ana_rig_v3_Character1_RightHandThumb4
+    400322: _ana_rig_v3_Character1_RightLeg
+    400324: _ana_rig_v3_Character1_RightShoulder
+    400326: _ana_rig_v3_Character1_RightToeBase
+    400328: _ana_rig_v3_Character1_RightUpLeg
+    400330: _ana_rig_v3_Character1_Spine
+    400332: _ana_rig_v3_Character1_Spine1
+    400334: _ana_rig_v3_Character1_Spine2
+    400336: _ana_rig_v3_cuerpo
+    400338: _ana_rig_v3_lentes
+    400340: _ana_rig_v3_nariz_11
+    400342: _ana_rig_v3_ojo_derecho
+    400344: _ana_rig_v3_ojo_izquierdo
+    400346: _ana_rig_v3_pierna_derecha
+    400348: _ana_rig_v3_pierna_izquierda
+    400350: _ana_rig_v3_polySurface1
+    400352: _ana_rig_v3_polySurface2
+    400354: _ana_rig_v3_pTorus1
+    400356: _ana_rig_v3_pTorus2
+    400358: _ana_rig_v3_pTorus3
+    400360: _ana_rig_v3_pTorus4
+    400362: _ana_rig_v3_zapato_derecho
+    400364: _ana_rig_v3_zapato_izquierdo
+    400366: //RootNode
+    400368: LUISRIG_brazo_izquierdo
+    400370: LUISRIG_brazo_izquierdo2
+    400372: LUISRIG_cabello_4
+    400374: LUISRIG_cabeza
+    400376: LUISRIG_ceja_derecha
+    400378: LUISRIG_ceja_izquierda
+    400380: LUISRIG_Char_E_1
+    400382: LUISRIG_Character1_Ctrl_ChestEndEffector
+    400384: LUISRIG_Character1_Ctrl_ChestOriginEffector
+    400386: LUISRIG_Character1_Ctrl_Head
+    400388: LUISRIG_Character1_Ctrl_HeadEffector
+    400390: LUISRIG_Character1_Ctrl_Hips
+    400392: LUISRIG_Character1_Ctrl_HipsEffector
+    400394: LUISRIG_Character1_Ctrl_LeftAnkleEffector
+    400396: LUISRIG_Character1_Ctrl_LeftArm
+    400398: LUISRIG_Character1_Ctrl_LeftElbowEffector
+    400400: LUISRIG_Character1_Ctrl_LeftFoot
+    400402: LUISRIG_Character1_Ctrl_LeftFootEffector
+    400404: LUISRIG_Character1_Ctrl_LeftForeArm
+    400406: LUISRIG_Character1_Ctrl_LeftHand
+    400408: LUISRIG_Character1_Ctrl_LeftHandIndex1
+    400410: LUISRIG_Character1_Ctrl_LeftHandIndex2
+    400412: LUISRIG_Character1_Ctrl_LeftHandIndex3
+    400414: LUISRIG_Character1_Ctrl_LeftHandIndex4
+    400416: LUISRIG_Character1_Ctrl_LeftHandIndexEffector
+    400418: LUISRIG_Character1_Ctrl_LeftHandMiddle1
+    400420: LUISRIG_Character1_Ctrl_LeftHandMiddle2
+    400422: LUISRIG_Character1_Ctrl_LeftHandMiddle3
+    400424: LUISRIG_Character1_Ctrl_LeftHandMiddle4
+    400426: LUISRIG_Character1_Ctrl_LeftHandMiddleEffector
+    400428: LUISRIG_Character1_Ctrl_LeftHandPinky1
+    400430: LUISRIG_Character1_Ctrl_LeftHandPinky2
+    400432: LUISRIG_Character1_Ctrl_LeftHandPinky3
+    400434: LUISRIG_Character1_Ctrl_LeftHandPinky4
+    400436: LUISRIG_Character1_Ctrl_LeftHandPinkyEffector
+    400438: LUISRIG_Character1_Ctrl_LeftHandRing1
+    400440: LUISRIG_Character1_Ctrl_LeftHandRing2
+    400442: LUISRIG_Character1_Ctrl_LeftHandRing3
+    400444: LUISRIG_Character1_Ctrl_LeftHandRing4
+    400446: LUISRIG_Character1_Ctrl_LeftHandRingEffector
+    400448: LUISRIG_Character1_Ctrl_LeftHandThumb1
+    400450: LUISRIG_Character1_Ctrl_LeftHandThumb2
+    400452: LUISRIG_Character1_Ctrl_LeftHandThumb3
+    400454: LUISRIG_Character1_Ctrl_LeftHandThumb4
+    400456: LUISRIG_Character1_Ctrl_LeftHandThumbEffector
+    400458: LUISRIG_Character1_Ctrl_LeftHipEffector
+    400460: LUISRIG_Character1_Ctrl_LeftKneeEffector
+    400462: LUISRIG_Character1_Ctrl_LeftLeg
+    400464: LUISRIG_Character1_Ctrl_LeftShoulder
+    400466: LUISRIG_Character1_Ctrl_LeftShoulderEffector
+    400468: LUISRIG_Character1_Ctrl_LeftToeBase
+    400470: LUISRIG_Character1_Ctrl_LeftUpLeg
+    400472: LUISRIG_Character1_Ctrl_LeftWristEffector
+    400474: LUISRIG_Character1_Ctrl_Neck
+    400476: LUISRIG_Character1_Ctrl_Reference
+    400478: LUISRIG_Character1_Ctrl_RightAnkleEffector
+    400480: LUISRIG_Character1_Ctrl_RightArm
+    400482: LUISRIG_Character1_Ctrl_RightElbowEffector
+    400484: LUISRIG_Character1_Ctrl_RightFoot
+    400486: LUISRIG_Character1_Ctrl_RightFootEffector
+    400488: LUISRIG_Character1_Ctrl_RightForeArm
+    400490: LUISRIG_Character1_Ctrl_RightHand
+    400492: LUISRIG_Character1_Ctrl_RightHandIndex1
+    400494: LUISRIG_Character1_Ctrl_RightHandIndex2
+    400496: LUISRIG_Character1_Ctrl_RightHandIndex3
+    400498: LUISRIG_Character1_Ctrl_RightHandIndex4
+    400500: LUISRIG_Character1_Ctrl_RightHandIndexEffector
+    400502: LUISRIG_Character1_Ctrl_RightHandMiddle1
+    400504: LUISRIG_Character1_Ctrl_RightHandMiddle2
+    400506: LUISRIG_Character1_Ctrl_RightHandMiddle3
+    400508: LUISRIG_Character1_Ctrl_RightHandMiddle4
+    400510: LUISRIG_Character1_Ctrl_RightHandMiddleEffector
+    400512: LUISRIG_Character1_Ctrl_RightHandPinky1
+    400514: LUISRIG_Character1_Ctrl_RightHandPinky2
+    400516: LUISRIG_Character1_Ctrl_RightHandPinky3
+    400518: LUISRIG_Character1_Ctrl_RightHandPinky4
+    400520: LUISRIG_Character1_Ctrl_RightHandPinkyEffector
+    400522: LUISRIG_Character1_Ctrl_RightHandRing1
+    400524: LUISRIG_Character1_Ctrl_RightHandRing2
+    400526: LUISRIG_Character1_Ctrl_RightHandRing3
+    400528: LUISRIG_Character1_Ctrl_RightHandRing4
+    400530: LUISRIG_Character1_Ctrl_RightHandRingEffector
+    400532: LUISRIG_Character1_Ctrl_RightHandThumb1
+    400534: LUISRIG_Character1_Ctrl_RightHandThumb2
+    400536: LUISRIG_Character1_Ctrl_RightHandThumb3
+    400538: LUISRIG_Character1_Ctrl_RightHandThumb4
+    400540: LUISRIG_Character1_Ctrl_RightHandThumbEffector
+    400542: LUISRIG_Character1_Ctrl_RightHipEffector
+    400544: LUISRIG_Character1_Ctrl_RightKneeEffector
+    400546: LUISRIG_Character1_Ctrl_RightLeg
+    400548: LUISRIG_Character1_Ctrl_RightShoulder
+    400550: LUISRIG_Character1_Ctrl_RightShoulderEffector
+    400552: LUISRIG_Character1_Ctrl_RightToeBase
+    400554: LUISRIG_Character1_Ctrl_RightUpLeg
+    400556: LUISRIG_Character1_Ctrl_RightWristEffector
+    400558: LUISRIG_Character1_Ctrl_Spine
+    400560: LUISRIG_Character1_Ctrl_Spine1
+    400562: LUISRIG_Character1_Ctrl_Spine2
+    400564: LUISRIG_Character1_Head
+    400566: LUISRIG_Character1_Hips
+    400568: LUISRIG_Character1_LeftArm
+    400570: LUISRIG_Character1_LeftFoot
+    400572: LUISRIG_Character1_LeftForeArm
+    400574: LUISRIG_Character1_LeftHand
+    400576: LUISRIG_Character1_LeftHandIndex1
+    400578: LUISRIG_Character1_LeftHandIndex2
+    400580: LUISRIG_Character1_LeftHandIndex3
+    400582: LUISRIG_Character1_LeftHandIndex4
+    400584: LUISRIG_Character1_LeftHandMiddle1
+    400586: LUISRIG_Character1_LeftHandMiddle2
+    400588: LUISRIG_Character1_LeftHandMiddle3
+    400590: LUISRIG_Character1_LeftHandMiddle4
+    400592: LUISRIG_Character1_LeftHandPinky1
+    400594: LUISRIG_Character1_LeftHandPinky2
+    400596: LUISRIG_Character1_LeftHandPinky3
+    400598: LUISRIG_Character1_LeftHandPinky4
+    400600: LUISRIG_Character1_LeftHandRing1
+    400602: LUISRIG_Character1_LeftHandRing2
+    400604: LUISRIG_Character1_LeftHandRing3
+    400606: LUISRIG_Character1_LeftHandRing4
+    400608: LUISRIG_Character1_LeftHandThumb1
+    400610: LUISRIG_Character1_LeftHandThumb2
+    400612: LUISRIG_Character1_LeftHandThumb3
+    400614: LUISRIG_Character1_LeftHandThumb4
+    400616: LUISRIG_Character1_LeftLeg
+    400618: LUISRIG_Character1_LeftShoulder
+    400620: LUISRIG_Character1_LeftToeBase
+    400622: LUISRIG_Character1_LeftUpLeg
+    400624: LUISRIG_Character1_Neck
+    400626: LUISRIG_Character1_Reference
+    400628: LUISRIG_Character1_RightArm
+    400630: LUISRIG_Character1_RightFoot
+    400632: LUISRIG_Character1_RightForeArm
+    400634: LUISRIG_Character1_RightHand
+    400636: LUISRIG_Character1_RightHandIndex1
+    400638: LUISRIG_Character1_RightHandIndex2
+    400640: LUISRIG_Character1_RightHandIndex3
+    400642: LUISRIG_Character1_RightHandIndex4
+    400644: LUISRIG_Character1_RightHandMiddle1
+    400646: LUISRIG_Character1_RightHandMiddle2
+    400648: LUISRIG_Character1_RightHandMiddle3
+    400650: LUISRIG_Character1_RightHandMiddle4
+    400652: LUISRIG_Character1_RightHandPinky1
+    400654: LUISRIG_Character1_RightHandPinky2
+    400656: LUISRIG_Character1_RightHandPinky3
+    400658: LUISRIG_Character1_RightHandPinky4
+    400660: LUISRIG_Character1_RightHandRing1
+    400662: LUISRIG_Character1_RightHandRing2
+    400664: LUISRIG_Character1_RightHandRing3
+    400666: LUISRIG_Character1_RightHandRing4
+    400668: LUISRIG_Character1_RightHandThumb1
+    400670: LUISRIG_Character1_RightHandThumb2
+    400672: LUISRIG_Character1_RightHandThumb3
+    400674: LUISRIG_Character1_RightHandThumb4
+    400676: LUISRIG_Character1_RightLeg
+    400678: LUISRIG_Character1_RightShoulder
+    400680: LUISRIG_Character1_RightToeBase
+    400682: LUISRIG_Character1_RightUpLeg
+    400684: LUISRIG_Character1_Spine
+    400686: LUISRIG_Character1_Spine1
+    400688: LUISRIG_Character1_Spine2
+    400690: LUISRIG_nariz_9
+    400692: LUISRIG_ojo_derecho
+    400694: LUISRIG_ojo_izquierdo
+    400696: LUISRIG_oreja_derecha
+    400698: LUISRIG_oreja_izquierda
+    400700: LUISRIG_pie_derecho
+    400702: LUISRIG_pie_izquierdo
+    400704: LUISRIG_polySurface1
+    400706: LUISRIG_Text_E_1
+    400708: LUISRIG_torso
+    400710: pCube1
+    400712: pCube10
+    400714: pCube11
+    400716: pCube12
+    400718: pCube13
+    400720: pCube14
+    400722: pCube15
+    400724: pCube16
+    400726: pCube17
+    400728: pCube18
+    400730: pCube19
+    400732: pCube2
+    400734: pCube21
+    400736: pCube22
+    400738: pCube23
+    400740: pCube24
+    400742: pCube25
+    400744: pCube3
+    400746: pCube4
+    400748: pCube5
+    400750: pCube6
+    400752: pCube7
+    400754: pCube8
+    400756: pCube9
+    400758: pCylinder1
+    400760: pCylinder2
+    400762: pCylinder3
+    400764: pCylinder4
+    400766: pCylinder5
+    400768: pCylinder6
+    400770: pPipe1
+    400772: pPipe2
+    400774: pPlane1
+    400776: pSphere7
+    400778: pSphere8
+    400780: transform1
+    400782: transform10
+    400784: transform11
+    400786: transform12
+    400788: transform13
+    400790: transform14
+    400792: transform15
+    400794: transform16
+    400796: transform17
+    400798: transform18
+    400800: transform19
+    400802: transform2
+    400804: transform20
+    400806: transform21
+    400808: transform22
+    400810: transform23
+    400812: transform24
+    400814: transform25
+    400816: transform26
+    400818: transform27
+    400820: transform28
+    400822: transform29
+    400824: transform3
+    400826: transform4
+    400828: transform5
+    400830: transform6
+    400832: transform7
+    400834: transform8
+    400836: transform9
+    2300000: pCube25
+    3300000: pCube25
+    4300000: LUISRIG_cabeza
+    4300002: LUISRIG_torso
+    4300004: LUISRIG_brazo_izquierdo
+    4300006: LUISRIG_cabello_4
+    4300008: LUISRIG_oreja_izquierda
+    4300010: LUISRIG_oreja_derecha
+    4300012: LUISRIG_pie_izquierdo
+    4300014: LUISRIG_pie_derecho
+    4300016: LUISRIG_nariz_9
+    4300018: LUISRIG_ceja_derecha
+    4300020: LUISRIG_ceja_izquierda
+    4300022: LUISRIG_ojo_derecho
+    4300024: LUISRIG_ojo_izquierdo
+    4300026: pCube24
+    4300028: pCube25
+    4300030: LUISRIG_brazo_izquierdo2
+    4300032: LUISRIG_polySurface1
+    4300034: pPipe2
+    4300036: pPlane1
+    4300038: _ana_rig_v3_polySurface1
+    4300040: _ana_rig_v3_polySurface2
+    4300042: _ana_rig_v3_zapato_izquierdo
+    4300044: _ana_rig_v3_lentes
+    4300046: _ana_rig_v3_cabeza
+    4300048: _ana_rig_v3_cabello
+    4300050: _ana_rig_v3_cuerpo
+    4300052: _ana_rig_v3_ojo_izquierdo
+    4300054: _ana_rig_v3_ojo_derecho
+    4300056: _ana_rig_v3_ceja_izquierda
+    4300058: _ana_rig_v3_ceja_derecha
+    4300060: _ana_rig_v3_nariz_11
+    4300062: _ana_rig_v3_pierna_izquierda
+    4300064: _ana_rig_v3_zapato_derecho
+    4300066: _ana_rig_v3_pierna_derecha
+    4300068: _ana_rig_v3__ana_rig_v3__ana_rig_v3_pTorus4Shape
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: _ana_rig_v3__ana_rig_v3__ana_rig_v3_pTorus4Shape
+    13700002: _ana_rig_v3_cabello
+    13700004: _ana_rig_v3_cabeza
+    13700006: _ana_rig_v3_ceja_derecha
+    13700008: _ana_rig_v3_ceja_izquierda
+    13700010: _ana_rig_v3_cuerpo
+    13700012: _ana_rig_v3_lentes
+    13700014: _ana_rig_v3_nariz_11
+    13700016: _ana_rig_v3_ojo_derecho
+    13700018: _ana_rig_v3_ojo_izquierdo
+    13700020: _ana_rig_v3_pierna_derecha
+    13700022: _ana_rig_v3_pierna_izquierda
+    13700024: _ana_rig_v3_polySurface1
+    13700026: _ana_rig_v3_polySurface2
+    13700028: _ana_rig_v3_zapato_derecho
+    13700030: _ana_rig_v3_zapato_izquierdo
+    13700032: LUISRIG_brazo_izquierdo
+    13700034: LUISRIG_brazo_izquierdo2
+    13700036: LUISRIG_cabello_4
+    13700038: LUISRIG_cabeza
+    13700040: LUISRIG_ceja_derecha
+    13700042: LUISRIG_ceja_izquierda
+    13700044: LUISRIG_nariz_9
+    13700046: LUISRIG_ojo_derecho
+    13700048: LUISRIG_ojo_izquierdo
+    13700050: LUISRIG_oreja_derecha
+    13700052: LUISRIG_oreja_izquierda
+    13700054: LUISRIG_pie_derecho
+    13700056: LUISRIG_pie_izquierdo
+    13700058: LUISRIG_polySurface1
+    13700060: LUISRIG_torso
+    13700062: pCube24
+    13700064: pPipe2
+    13700066: pPlane1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _ana_rig_v3__ana_rig_v3__ana_rig_v3_pTorus4Shape
+        weight: 1
+      - path: _ana_rig_v3__ana_rig_v3_pTorus1
+        weight: 1
+      - path: _ana_rig_v3__ana_rig_v3_pTorus1/_ana_rig_v3__ana_rig_v3__ana_rig_v3_transform3
+        weight: 1
+      - path: _ana_rig_v3_brazo_izquierdo
+        weight: 1
+      - path: _ana_rig_v3_brazo_izquierdo/_ana_rig_v3_polySurface1
+        weight: 1
+      - path: _ana_rig_v3_brazo_izquierdo/_ana_rig_v3_polySurface2
+        weight: 1
+      - path: _ana_rig_v3_cabello
+        weight: 1
+      - path: _ana_rig_v3_cabeza
+        weight: 1
+      - path: _ana_rig_v3_ceja_derecha
+        weight: 1
+      - path: _ana_rig_v3_ceja_izquierda
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_ChestEndEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_HeadEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_LeftUpLeg
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_LeftUpLeg/_ana_rig_v3_Character1_Ctrl_LeftLeg
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_LeftUpLeg/_ana_rig_v3_Character1_Ctrl_LeftLeg/_ana_rig_v3_Character1_Ctrl_LeftFoot
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_LeftUpLeg/_ana_rig_v3_Character1_Ctrl_LeftLeg/_ana_rig_v3_Character1_Ctrl_LeftFoot/_ana_rig_v3_Character1_Ctrl_LeftToeBase
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_RightUpLeg
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_RightUpLeg/_ana_rig_v3_Character1_Ctrl_RightLeg
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_RightUpLeg/_ana_rig_v3_Character1_Ctrl_RightLeg/_ana_rig_v3_Character1_Ctrl_RightFoot
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_RightUpLeg/_ana_rig_v3_Character1_Ctrl_RightLeg/_ana_rig_v3_Character1_Ctrl_RightFoot/_ana_rig_v3_Character1_Ctrl_RightToeBase
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandIndex1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandIndex1/_ana_rig_v3_Character1_Ctrl_LeftHandIndex2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandIndex1/_ana_rig_v3_Character1_Ctrl_LeftHandIndex2/_ana_rig_v3_Character1_Ctrl_LeftHandIndex3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandIndex1/_ana_rig_v3_Character1_Ctrl_LeftHandIndex2/_ana_rig_v3_Character1_Ctrl_LeftHandIndex3/_ana_rig_v3_Character1_Ctrl_LeftHandIndex4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle1/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle1/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle2/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle1/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle2/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle3/_ana_rig_v3_Character1_Ctrl_LeftHandMiddle4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandPinky1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandPinky1/_ana_rig_v3_Character1_Ctrl_LeftHandPinky2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandPinky1/_ana_rig_v3_Character1_Ctrl_LeftHandPinky2/_ana_rig_v3_Character1_Ctrl_LeftHandPinky3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandPinky1/_ana_rig_v3_Character1_Ctrl_LeftHandPinky2/_ana_rig_v3_Character1_Ctrl_LeftHandPinky3/_ana_rig_v3_Character1_Ctrl_LeftHandPinky4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandRing1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandRing1/_ana_rig_v3_Character1_Ctrl_LeftHandRing2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandRing1/_ana_rig_v3_Character1_Ctrl_LeftHandRing2/_ana_rig_v3_Character1_Ctrl_LeftHandRing3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandRing1/_ana_rig_v3_Character1_Ctrl_LeftHandRing2/_ana_rig_v3_Character1_Ctrl_LeftHandRing3/_ana_rig_v3_Character1_Ctrl_LeftHandRing4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandThumb1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandThumb1/_ana_rig_v3_Character1_Ctrl_LeftHandThumb2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandThumb1/_ana_rig_v3_Character1_Ctrl_LeftHandThumb2/_ana_rig_v3_Character1_Ctrl_LeftHandThumb3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_LeftShoulder/_ana_rig_v3_Character1_Ctrl_LeftArm/_ana_rig_v3_Character1_Ctrl_LeftForeArm/_ana_rig_v3_Character1_Ctrl_LeftHand/_ana_rig_v3_Character1_Ctrl_LeftHandThumb1/_ana_rig_v3_Character1_Ctrl_LeftHandThumb2/_ana_rig_v3_Character1_Ctrl_LeftHandThumb3/_ana_rig_v3_Character1_Ctrl_LeftHandThumb4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_Neck
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_Neck/_ana_rig_v3_Character1_Ctrl_Head
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandIndex1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandIndex1/_ana_rig_v3_Character1_Ctrl_RightHandIndex2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandIndex1/_ana_rig_v3_Character1_Ctrl_RightHandIndex2/_ana_rig_v3_Character1_Ctrl_RightHandIndex3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandIndex1/_ana_rig_v3_Character1_Ctrl_RightHandIndex2/_ana_rig_v3_Character1_Ctrl_RightHandIndex3/_ana_rig_v3_Character1_Ctrl_RightHandIndex4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandMiddle1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandMiddle1/_ana_rig_v3_Character1_Ctrl_RightHandMiddle2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandMiddle1/_ana_rig_v3_Character1_Ctrl_RightHandMiddle2/_ana_rig_v3_Character1_Ctrl_RightHandMiddle3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandMiddle1/_ana_rig_v3_Character1_Ctrl_RightHandMiddle2/_ana_rig_v3_Character1_Ctrl_RightHandMiddle3/_ana_rig_v3_Character1_Ctrl_RightHandMiddle4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandPinky1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandPinky1/_ana_rig_v3_Character1_Ctrl_RightHandPinky2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandPinky1/_ana_rig_v3_Character1_Ctrl_RightHandPinky2/_ana_rig_v3_Character1_Ctrl_RightHandPinky3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandPinky1/_ana_rig_v3_Character1_Ctrl_RightHandPinky2/_ana_rig_v3_Character1_Ctrl_RightHandPinky3/_ana_rig_v3_Character1_Ctrl_RightHandPinky4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandRing1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandRing1/_ana_rig_v3_Character1_Ctrl_RightHandRing2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandRing1/_ana_rig_v3_Character1_Ctrl_RightHandRing2/_ana_rig_v3_Character1_Ctrl_RightHandRing3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandRing1/_ana_rig_v3_Character1_Ctrl_RightHandRing2/_ana_rig_v3_Character1_Ctrl_RightHandRing3/_ana_rig_v3_Character1_Ctrl_RightHandRing4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandThumb1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandThumb1/_ana_rig_v3_Character1_Ctrl_RightHandThumb2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandThumb1/_ana_rig_v3_Character1_Ctrl_RightHandThumb2/_ana_rig_v3_Character1_Ctrl_RightHandThumb3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_Hips/_ana_rig_v3_Character1_Ctrl_Spine/_ana_rig_v3_Character1_Ctrl_Spine1/_ana_rig_v3_Character1_Ctrl_Spine2/_ana_rig_v3_Character1_Ctrl_RightShoulder/_ana_rig_v3_Character1_Ctrl_RightArm/_ana_rig_v3_Character1_Ctrl_RightForeArm/_ana_rig_v3_Character1_Ctrl_RightHand/_ana_rig_v3_Character1_Ctrl_RightHandThumb1/_ana_rig_v3_Character1_Ctrl_RightHandThumb2/_ana_rig_v3_Character1_Ctrl_RightHandThumb3/_ana_rig_v3_Character1_Ctrl_RightHandThumb4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_HipsEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftFootEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftHandIndexEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftHandMiddleEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftHandPinkyEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftHandRingEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftHandThumbEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftHipEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_LeftWristEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightElbowEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightFootEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightHandIndexEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightHandMiddleEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightHandPinkyEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightHandRingEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightHandThumbEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightHipEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightKneeEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Ctrl_Reference/_ana_rig_v3_Character1_Ctrl_RightWristEffector
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_LeftUpLeg
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_LeftUpLeg/_ana_rig_v3_Character1_LeftLeg
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_LeftUpLeg/_ana_rig_v3_Character1_LeftLeg/_ana_rig_v3_Character1_LeftFoot
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_LeftUpLeg/_ana_rig_v3_Character1_LeftLeg/_ana_rig_v3_Character1_LeftFoot/_ana_rig_v3_Character1_LeftToeBase
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_RightUpLeg
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_RightUpLeg/_ana_rig_v3_Character1_RightLeg
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_RightUpLeg/_ana_rig_v3_Character1_RightLeg/_ana_rig_v3_Character1_RightFoot
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_RightUpLeg/_ana_rig_v3_Character1_RightLeg/_ana_rig_v3_Character1_RightFoot/_ana_rig_v3_Character1_RightToeBase
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandIndex1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandIndex1/_ana_rig_v3_Character1_LeftHandIndex2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandIndex1/_ana_rig_v3_Character1_LeftHandIndex2/_ana_rig_v3_Character1_LeftHandIndex3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandIndex1/_ana_rig_v3_Character1_LeftHandIndex2/_ana_rig_v3_Character1_LeftHandIndex3/_ana_rig_v3_Character1_LeftHandIndex4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandMiddle1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandMiddle1/_ana_rig_v3_Character1_LeftHandMiddle2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandMiddle1/_ana_rig_v3_Character1_LeftHandMiddle2/_ana_rig_v3_Character1_LeftHandMiddle3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandMiddle1/_ana_rig_v3_Character1_LeftHandMiddle2/_ana_rig_v3_Character1_LeftHandMiddle3/_ana_rig_v3_Character1_LeftHandMiddle4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandPinky1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandPinky1/_ana_rig_v3_Character1_LeftHandPinky2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandPinky1/_ana_rig_v3_Character1_LeftHandPinky2/_ana_rig_v3_Character1_LeftHandPinky3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandPinky1/_ana_rig_v3_Character1_LeftHandPinky2/_ana_rig_v3_Character1_LeftHandPinky3/_ana_rig_v3_Character1_LeftHandPinky4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandRing1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandRing1/_ana_rig_v3_Character1_LeftHandRing2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandRing1/_ana_rig_v3_Character1_LeftHandRing2/_ana_rig_v3_Character1_LeftHandRing3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandRing1/_ana_rig_v3_Character1_LeftHandRing2/_ana_rig_v3_Character1_LeftHandRing3/_ana_rig_v3_Character1_LeftHandRing4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandThumb1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandThumb1/_ana_rig_v3_Character1_LeftHandThumb2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandThumb1/_ana_rig_v3_Character1_LeftHandThumb2/_ana_rig_v3_Character1_LeftHandThumb3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_LeftShoulder/_ana_rig_v3_Character1_LeftArm/_ana_rig_v3_Character1_LeftForeArm/_ana_rig_v3_Character1_LeftHand/_ana_rig_v3_Character1_LeftHandThumb1/_ana_rig_v3_Character1_LeftHandThumb2/_ana_rig_v3_Character1_LeftHandThumb3/_ana_rig_v3_Character1_LeftHandThumb4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_Neck
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_Neck/_ana_rig_v3_Character1_Head
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandIndex1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandIndex1/_ana_rig_v3_Character1_RightHandIndex2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandIndex1/_ana_rig_v3_Character1_RightHandIndex2/_ana_rig_v3_Character1_RightHandIndex3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandIndex1/_ana_rig_v3_Character1_RightHandIndex2/_ana_rig_v3_Character1_RightHandIndex3/_ana_rig_v3_Character1_RightHandIndex4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandMiddle1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandMiddle1/_ana_rig_v3_Character1_RightHandMiddle2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandMiddle1/_ana_rig_v3_Character1_RightHandMiddle2/_ana_rig_v3_Character1_RightHandMiddle3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandMiddle1/_ana_rig_v3_Character1_RightHandMiddle2/_ana_rig_v3_Character1_RightHandMiddle3/_ana_rig_v3_Character1_RightHandMiddle4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandPinky1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandPinky1/_ana_rig_v3_Character1_RightHandPinky2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandPinky1/_ana_rig_v3_Character1_RightHandPinky2/_ana_rig_v3_Character1_RightHandPinky3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandPinky1/_ana_rig_v3_Character1_RightHandPinky2/_ana_rig_v3_Character1_RightHandPinky3/_ana_rig_v3_Character1_RightHandPinky4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandRing1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandRing1/_ana_rig_v3_Character1_RightHandRing2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandRing1/_ana_rig_v3_Character1_RightHandRing2/_ana_rig_v3_Character1_RightHandRing3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandRing1/_ana_rig_v3_Character1_RightHandRing2/_ana_rig_v3_Character1_RightHandRing3/_ana_rig_v3_Character1_RightHandRing4
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandThumb1
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandThumb1/_ana_rig_v3_Character1_RightHandThumb2
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandThumb1/_ana_rig_v3_Character1_RightHandThumb2/_ana_rig_v3_Character1_RightHandThumb3
+        weight: 1
+      - path: _ana_rig_v3_Character1_Reference/_ana_rig_v3_Character1_Hips/_ana_rig_v3_Character1_Spine/_ana_rig_v3_Character1_Spine1/_ana_rig_v3_Character1_Spine2/_ana_rig_v3_Character1_RightShoulder/_ana_rig_v3_Character1_RightArm/_ana_rig_v3_Character1_RightForeArm/_ana_rig_v3_Character1_RightHand/_ana_rig_v3_Character1_RightHandThumb1/_ana_rig_v3_Character1_RightHandThumb2/_ana_rig_v3_Character1_RightHandThumb3/_ana_rig_v3_Character1_RightHandThumb4
+        weight: 1
+      - path: _ana_rig_v3_cuerpo
+        weight: 1
+      - path: _ana_rig_v3_lentes
+        weight: 1
+      - path: _ana_rig_v3_nariz_11
+        weight: 1
+      - path: _ana_rig_v3_ojo_derecho
+        weight: 1
+      - path: _ana_rig_v3_ojo_izquierdo
+        weight: 1
+      - path: _ana_rig_v3_pierna_derecha
+        weight: 1
+      - path: _ana_rig_v3_pierna_izquierda
+        weight: 1
+      - path: _ana_rig_v3_pTorus1
+        weight: 1
+      - path: _ana_rig_v3_pTorus1/_ana_rig_v3__ana_rig_v3_transform3
+        weight: 1
+      - path: _ana_rig_v3_pTorus2
+        weight: 1
+      - path: _ana_rig_v3_pTorus2/_ana_rig_v3__ana_rig_v3_transform1
+        weight: 1
+      - path: _ana_rig_v3_pTorus3
+        weight: 1
+      - path: _ana_rig_v3_pTorus3/_ana_rig_v3__ana_rig_v3_transform2
+        weight: 1
+      - path: _ana_rig_v3_pTorus4
+        weight: 1
+      - path: _ana_rig_v3_pTorus4/_ana_rig_v3__ana_rig_v3__ana_rig_v3_transform4
+        weight: 1
+      - path: _ana_rig_v3_zapato_derecho
+        weight: 1
+      - path: _ana_rig_v3_zapato_izquierdo
+        weight: 1
+      - path: LUISRIG_brazo_izquierdo
+        weight: 1
+      - path: LUISRIG_brazo_izquierdo2
+        weight: 1
+      - path: LUISRIG_cabello_4
+        weight: 1
+      - path: LUISRIG_cabeza
+        weight: 1
+      - path: LUISRIG_ceja_derecha
+        weight: 1
+      - path: LUISRIG_ceja_izquierda
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_ChestEndEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_HeadEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_LeftUpLeg
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_LeftUpLeg/LUISRIG_Character1_Ctrl_LeftLeg
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_LeftUpLeg/LUISRIG_Character1_Ctrl_LeftLeg/LUISRIG_Character1_Ctrl_LeftFoot
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_LeftUpLeg/LUISRIG_Character1_Ctrl_LeftLeg/LUISRIG_Character1_Ctrl_LeftFoot/LUISRIG_Character1_Ctrl_LeftToeBase
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_RightUpLeg
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_RightUpLeg/LUISRIG_Character1_Ctrl_RightLeg
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_RightUpLeg/LUISRIG_Character1_Ctrl_RightLeg/LUISRIG_Character1_Ctrl_RightFoot
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_RightUpLeg/LUISRIG_Character1_Ctrl_RightLeg/LUISRIG_Character1_Ctrl_RightFoot/LUISRIG_Character1_Ctrl_RightToeBase
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandIndex1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandIndex1/LUISRIG_Character1_Ctrl_LeftHandIndex2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandIndex1/LUISRIG_Character1_Ctrl_LeftHandIndex2/LUISRIG_Character1_Ctrl_LeftHandIndex3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandIndex1/LUISRIG_Character1_Ctrl_LeftHandIndex2/LUISRIG_Character1_Ctrl_LeftHandIndex3/LUISRIG_Character1_Ctrl_LeftHandIndex4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandMiddle1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandMiddle1/LUISRIG_Character1_Ctrl_LeftHandMiddle2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandMiddle1/LUISRIG_Character1_Ctrl_LeftHandMiddle2/LUISRIG_Character1_Ctrl_LeftHandMiddle3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandMiddle1/LUISRIG_Character1_Ctrl_LeftHandMiddle2/LUISRIG_Character1_Ctrl_LeftHandMiddle3/LUISRIG_Character1_Ctrl_LeftHandMiddle4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandPinky1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandPinky1/LUISRIG_Character1_Ctrl_LeftHandPinky2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandPinky1/LUISRIG_Character1_Ctrl_LeftHandPinky2/LUISRIG_Character1_Ctrl_LeftHandPinky3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandPinky1/LUISRIG_Character1_Ctrl_LeftHandPinky2/LUISRIG_Character1_Ctrl_LeftHandPinky3/LUISRIG_Character1_Ctrl_LeftHandPinky4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandRing1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandRing1/LUISRIG_Character1_Ctrl_LeftHandRing2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandRing1/LUISRIG_Character1_Ctrl_LeftHandRing2/LUISRIG_Character1_Ctrl_LeftHandRing3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandRing1/LUISRIG_Character1_Ctrl_LeftHandRing2/LUISRIG_Character1_Ctrl_LeftHandRing3/LUISRIG_Character1_Ctrl_LeftHandRing4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandThumb1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandThumb1/LUISRIG_Character1_Ctrl_LeftHandThumb2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandThumb1/LUISRIG_Character1_Ctrl_LeftHandThumb2/LUISRIG_Character1_Ctrl_LeftHandThumb3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_LeftShoulder/LUISRIG_Character1_Ctrl_LeftArm/LUISRIG_Character1_Ctrl_LeftForeArm/LUISRIG_Character1_Ctrl_LeftHand/LUISRIG_Character1_Ctrl_LeftHandThumb1/LUISRIG_Character1_Ctrl_LeftHandThumb2/LUISRIG_Character1_Ctrl_LeftHandThumb3/LUISRIG_Character1_Ctrl_LeftHandThumb4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_Neck
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_Neck/LUISRIG_Character1_Ctrl_Head
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandIndex1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandIndex1/LUISRIG_Character1_Ctrl_RightHandIndex2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandIndex1/LUISRIG_Character1_Ctrl_RightHandIndex2/LUISRIG_Character1_Ctrl_RightHandIndex3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandIndex1/LUISRIG_Character1_Ctrl_RightHandIndex2/LUISRIG_Character1_Ctrl_RightHandIndex3/LUISRIG_Character1_Ctrl_RightHandIndex4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandMiddle1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandMiddle1/LUISRIG_Character1_Ctrl_RightHandMiddle2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandMiddle1/LUISRIG_Character1_Ctrl_RightHandMiddle2/LUISRIG_Character1_Ctrl_RightHandMiddle3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandMiddle1/LUISRIG_Character1_Ctrl_RightHandMiddle2/LUISRIG_Character1_Ctrl_RightHandMiddle3/LUISRIG_Character1_Ctrl_RightHandMiddle4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandPinky1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandPinky1/LUISRIG_Character1_Ctrl_RightHandPinky2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandPinky1/LUISRIG_Character1_Ctrl_RightHandPinky2/LUISRIG_Character1_Ctrl_RightHandPinky3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandPinky1/LUISRIG_Character1_Ctrl_RightHandPinky2/LUISRIG_Character1_Ctrl_RightHandPinky3/LUISRIG_Character1_Ctrl_RightHandPinky4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandRing1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandRing1/LUISRIG_Character1_Ctrl_RightHandRing2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandRing1/LUISRIG_Character1_Ctrl_RightHandRing2/LUISRIG_Character1_Ctrl_RightHandRing3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandRing1/LUISRIG_Character1_Ctrl_RightHandRing2/LUISRIG_Character1_Ctrl_RightHandRing3/LUISRIG_Character1_Ctrl_RightHandRing4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandThumb1
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandThumb1/LUISRIG_Character1_Ctrl_RightHandThumb2
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandThumb1/LUISRIG_Character1_Ctrl_RightHandThumb2/LUISRIG_Character1_Ctrl_RightHandThumb3
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_Hips/LUISRIG_Character1_Ctrl_Spine/LUISRIG_Character1_Ctrl_Spine1/LUISRIG_Character1_Ctrl_Spine2/LUISRIG_Character1_Ctrl_RightShoulder/LUISRIG_Character1_Ctrl_RightArm/LUISRIG_Character1_Ctrl_RightForeArm/LUISRIG_Character1_Ctrl_RightHand/LUISRIG_Character1_Ctrl_RightHandThumb1/LUISRIG_Character1_Ctrl_RightHandThumb2/LUISRIG_Character1_Ctrl_RightHandThumb3/LUISRIG_Character1_Ctrl_RightHandThumb4
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_HipsEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftFootEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftHandIndexEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftHandMiddleEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftHandPinkyEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftHandRingEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftHandThumbEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftHipEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_LeftWristEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightElbowEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightFootEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightHandIndexEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightHandMiddleEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightHandPinkyEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightHandRingEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightHandThumbEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightHipEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightKneeEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: LUISRIG_Character1_Ctrl_Reference/LUISRIG_Character1_Ctrl_RightWristEffector
+        weight: 1
+      - path: LUISRIG_Character1_Reference
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_LeftUpLeg
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_LeftUpLeg/LUISRIG_Character1_LeftLeg
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_LeftUpLeg/LUISRIG_Character1_LeftLeg/LUISRIG_Character1_LeftFoot
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_LeftUpLeg/LUISRIG_Character1_LeftLeg/LUISRIG_Character1_LeftFoot/LUISRIG_Character1_LeftToeBase
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_RightUpLeg
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_RightUpLeg/LUISRIG_Character1_RightLeg
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_RightUpLeg/LUISRIG_Character1_RightLeg/LUISRIG_Character1_RightFoot
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_RightUpLeg/LUISRIG_Character1_RightLeg/LUISRIG_Character1_RightFoot/LUISRIG_Character1_RightToeBase
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandIndex1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandIndex1/LUISRIG_Character1_LeftHandIndex2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandIndex1/LUISRIG_Character1_LeftHandIndex2/LUISRIG_Character1_LeftHandIndex3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandIndex1/LUISRIG_Character1_LeftHandIndex2/LUISRIG_Character1_LeftHandIndex3/LUISRIG_Character1_LeftHandIndex4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandMiddle1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandMiddle1/LUISRIG_Character1_LeftHandMiddle2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandMiddle1/LUISRIG_Character1_LeftHandMiddle2/LUISRIG_Character1_LeftHandMiddle3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandMiddle1/LUISRIG_Character1_LeftHandMiddle2/LUISRIG_Character1_LeftHandMiddle3/LUISRIG_Character1_LeftHandMiddle4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandPinky1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandPinky1/LUISRIG_Character1_LeftHandPinky2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandPinky1/LUISRIG_Character1_LeftHandPinky2/LUISRIG_Character1_LeftHandPinky3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandPinky1/LUISRIG_Character1_LeftHandPinky2/LUISRIG_Character1_LeftHandPinky3/LUISRIG_Character1_LeftHandPinky4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandRing1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandRing1/LUISRIG_Character1_LeftHandRing2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandRing1/LUISRIG_Character1_LeftHandRing2/LUISRIG_Character1_LeftHandRing3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandRing1/LUISRIG_Character1_LeftHandRing2/LUISRIG_Character1_LeftHandRing3/LUISRIG_Character1_LeftHandRing4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandThumb1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandThumb1/LUISRIG_Character1_LeftHandThumb2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandThumb1/LUISRIG_Character1_LeftHandThumb2/LUISRIG_Character1_LeftHandThumb3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_LeftShoulder/LUISRIG_Character1_LeftArm/LUISRIG_Character1_LeftForeArm/LUISRIG_Character1_LeftHand/LUISRIG_Character1_LeftHandThumb1/LUISRIG_Character1_LeftHandThumb2/LUISRIG_Character1_LeftHandThumb3/LUISRIG_Character1_LeftHandThumb4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_Neck
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_Neck/LUISRIG_Character1_Head
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandIndex1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandIndex1/LUISRIG_Character1_RightHandIndex2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandIndex1/LUISRIG_Character1_RightHandIndex2/LUISRIG_Character1_RightHandIndex3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandIndex1/LUISRIG_Character1_RightHandIndex2/LUISRIG_Character1_RightHandIndex3/LUISRIG_Character1_RightHandIndex4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandMiddle1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandMiddle1/LUISRIG_Character1_RightHandMiddle2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandMiddle1/LUISRIG_Character1_RightHandMiddle2/LUISRIG_Character1_RightHandMiddle3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandMiddle1/LUISRIG_Character1_RightHandMiddle2/LUISRIG_Character1_RightHandMiddle3/LUISRIG_Character1_RightHandMiddle4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandPinky1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandPinky1/LUISRIG_Character1_RightHandPinky2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandPinky1/LUISRIG_Character1_RightHandPinky2/LUISRIG_Character1_RightHandPinky3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandPinky1/LUISRIG_Character1_RightHandPinky2/LUISRIG_Character1_RightHandPinky3/LUISRIG_Character1_RightHandPinky4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandRing1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandRing1/LUISRIG_Character1_RightHandRing2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandRing1/LUISRIG_Character1_RightHandRing2/LUISRIG_Character1_RightHandRing3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandRing1/LUISRIG_Character1_RightHandRing2/LUISRIG_Character1_RightHandRing3/LUISRIG_Character1_RightHandRing4
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandThumb1
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandThumb1/LUISRIG_Character1_RightHandThumb2
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandThumb1/LUISRIG_Character1_RightHandThumb2/LUISRIG_Character1_RightHandThumb3
+        weight: 1
+      - path: LUISRIG_Character1_Reference/LUISRIG_Character1_Hips/LUISRIG_Character1_Spine/LUISRIG_Character1_Spine1/LUISRIG_Character1_Spine2/LUISRIG_Character1_RightShoulder/LUISRIG_Character1_RightArm/LUISRIG_Character1_RightForeArm/LUISRIG_Character1_RightHand/LUISRIG_Character1_RightHandThumb1/LUISRIG_Character1_RightHandThumb2/LUISRIG_Character1_RightHandThumb3/LUISRIG_Character1_RightHandThumb4
+        weight: 1
+      - path: LUISRIG_nariz_9
+        weight: 1
+      - path: LUISRIG_ojo_derecho
+        weight: 1
+      - path: LUISRIG_ojo_izquierdo
+        weight: 1
+      - path: LUISRIG_oreja_derecha
+        weight: 1
+      - path: LUISRIG_oreja_izquierda
+        weight: 1
+      - path: LUISRIG_pie_derecho
+        weight: 1
+      - path: LUISRIG_pie_izquierdo
+        weight: 1
+      - path: LUISRIG_polySurface1
+        weight: 1
+      - path: LUISRIG_Text_E_1
+        weight: 1
+      - path: LUISRIG_Text_E_1/LUISRIG_Char_E_1
+        weight: 1
+      - path: LUISRIG_torso
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform29
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform28
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform27
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: pCube4/transform26
+        weight: 1
+      - path: pCube5
+        weight: 1
+      - path: pCube5/transform25
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube6/transform24
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube7/transform23
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCube8/transform22
+        weight: 1
+      - path: pCube9
+        weight: 1
+      - path: pCube9/transform21
+        weight: 1
+      - path: pCube10
+        weight: 1
+      - path: pCube10/transform20
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube11/transform19
+        weight: 1
+      - path: pCube12
+        weight: 1
+      - path: pCube12/transform18
+        weight: 1
+      - path: pCube13
+        weight: 1
+      - path: pCube13/transform17
+        weight: 1
+      - path: pCube14
+        weight: 1
+      - path: pCube14/transform16
+        weight: 1
+      - path: pCube15
+        weight: 1
+      - path: pCube15/transform15
+        weight: 1
+      - path: pCube16
+        weight: 1
+      - path: pCube16/transform14
+        weight: 1
+      - path: pCube17
+        weight: 1
+      - path: pCube17/transform13
+        weight: 1
+      - path: pCube18
+        weight: 1
+      - path: pCube18/transform12
+        weight: 1
+      - path: pCube19
+        weight: 1
+      - path: pCube19/transform11
+        weight: 1
+      - path: pCube21
+        weight: 1
+      - path: pCube21/transform10
+        weight: 1
+      - path: pCube22
+        weight: 1
+      - path: pCube22/transform9
+        weight: 1
+      - path: pCube23
+        weight: 1
+      - path: pCube23/transform7
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform6
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform5
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform4
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform3
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder5/transform2
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder6/transform1
+        weight: 1
+      - path: pPipe1
+        weight: 1
+      - path: pPipe1/transform8
+        weight: 1
+      - path: pPipe2
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pSphere7
+        weight: 1
+      - path: pSphere7/_ana_rig_v3__ana_rig_v3__ana_rig_v3_transform2
+        weight: 1
+      - path: pSphere8
+        weight: 1
+      - path: pSphere8/_ana_rig_v3__ana_rig_v3__ana_rig_v3_transform1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

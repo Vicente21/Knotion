@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C434802D-3AA3-D1F5-6811-05B29B3224AA}") = "Kinder_AR", "Assembly-CSharp.csproj", "{5D342223-8BCA-DC9A-19CC-12A46F6DFAE5}"
+EndProject
+Project("{C434802D-3AA3-D1F5-6811-05B29B3224AA}") = "Kinder_AR", "Assembly-CSharp-Editor.csproj", "{D198FE1C-5A03-C13D-B001-EE209EDC6091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D342223-8BCA-DC9A-19CC-12A46F6DFAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D342223-8BCA-DC9A-19CC-12A46F6DFAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D342223-8BCA-DC9A-19CC-12A46F6DFAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D342223-8BCA-DC9A-19CC-12A46F6DFAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D198FE1C-5A03-C13D-B001-EE209EDC6091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D198FE1C-5A03-C13D-B001-EE209EDC6091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D198FE1C-5A03-C13D-B001-EE209EDC6091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D198FE1C-5A03-C13D-B001-EE209EDC6091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

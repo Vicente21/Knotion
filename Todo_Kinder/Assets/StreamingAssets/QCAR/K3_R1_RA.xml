@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Kim_Nina" size="1.000000 1.333333" />
+    <ImageTarget name="Kim_Nino" size="1.000000 1.333333" />
+    <ImageTarget name="K3_Kimono_02" size="1.000000 1.370563" />
+    <ImageTarget name="K3_Kimono_01" size="1.000000 1.322374" />
+    <ImageTarget name="CorazonRA" size="1.000000 0.901811" />
+    <ImageTarget name="K3_EN_R1_11" size="1.000000 1.293358" />
+    <ImageTarget name="K3_EN_R1_18" size="1.000000 1.160211" />
+    <ImageTarget name="K3_EN_R1_23" size="1.000000 0.832071" />
+    <ImageTarget name="K3_ES_R1_29" size="1.000000 0.950000" />
+    <ImageTarget name="K3_ES_R1_26" size="1.000000 0.945792" />
+    <ImageTarget name="K3_ES_R1_22" size="1.000000 1.103161" />
+    <ImageTarget name="K3_ES_R1_15" size="1.000000 0.787261" />
+    <ImageTarget name="K3_ES_R1_7" size="1.000000 1.055829" />
+    <ImageTarget name="K3_ES_R1_3" size="1.000000 1.121622" />
+    <ImageTarget name="K3_ES_R1_2" size="1.000000 0.964018" />
+    <ImageTarget name="K3_EN_R1_30" size="1.000000 0.734719" />
+    <ImageTarget name="K3_EN_R1_26" size="1.000000 0.902913" />
+    <ImageTarget name="K3_EN_R1_25" size="1.000000 0.923836" />
+    <ImageTarget name="K3_EN_R1_5" size="1.000000 1.162258" />
+    <ImageTarget name="K3_EN_R1_3" size="1.000000 0.931507" />
+  </Tracking>
+</QCARConfig>
